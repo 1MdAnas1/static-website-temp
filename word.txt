@@ -1,1 +1,7 @@
-content from subbranch - mymaster1
+
+text content written in master
+
+updated file in master
+
+subbranch updated from master.
+
